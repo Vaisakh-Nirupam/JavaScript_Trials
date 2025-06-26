@@ -47,7 +47,12 @@ button {
   height: 50px;
   margin: 6px;
   background: #252424;
+  font-size: 18px;
   color: #fff;
   border: none;
   border-radius: 5px;
+}
+
+.operators {
+  color: aqua;
 }
