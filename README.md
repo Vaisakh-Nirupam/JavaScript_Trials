@@ -1,6 +1,6 @@
 # 🧮 Calculator & ⏰ Digital Clock
 
-Two simple web applications built using **HTML**, **CSS**, and **Vanilla JavaScript** — a basic calculator and a digital clock.
+Two simple web applications built using **HTML**, **CSS**, and **JavaScript** — a basic calculator and a digital clock.
 
 Created as part of a JavaScript project report to demonstrate core concepts like DOM manipulation and event handling.
 
