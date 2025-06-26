@@ -4,11 +4,33 @@
 }
 
 body {
-  background-color: #c6adad;
+  background: linear-gradient(#664a4a, #c6adad);
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
   height: 100vh;
+}
+
+#main_container {
+  background: linear-gradient(#c6adad, #664a4a);
+  /* background: linear-gradient(#664a4a, #c8c8c8, #664a4a); */
+  border-radius: 10px;
+  padding: 50px;
+  opacity: 0.7;
+  color: #433737;
+}
+
+#date {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h3 {
+  font-size: 50px;
+  /* margin-left: 70px; */
+  margin-left: 20px;
 }
 
 #clock {
